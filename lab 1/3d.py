@@ -9,6 +9,8 @@ import numpy as np
 
 file_path = "dataset/wine.data"
 
+
+
 columns = [
     "Class", "Alcohol", "Malic acid", "Ash", "Alcalinity of ash", "Magnesium",
     "Total phenols", "Flavanoids", "Nonflavanoid phenols", "Proanthocyanins",
